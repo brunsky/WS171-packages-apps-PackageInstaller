@@ -31,7 +31,7 @@
     <string name="unknown_apps_dlg_text">"Din telefon er af sikkerhedsgrunde indstillet til at blokere installation af programmer, der ikke er anskaffet på Android Marked."</string>
     <string name="ok">"OK"</string>
     <string name="settings">"Indstillinger"</string>
-    <string name="manage_applications">"Administrer programmer"</string>
+    <string name="manage_applications">"Administ. programmer"</string>
     <string name="dlg_app_replacement_title">"Erstat program"</string>
     <string name="dlg_app_replacement_statement">"Det program, du installerer, erstatter et andet program."\n\n"Alle tidligere brugerdata gemmes."</string>
     <string name="dlg_sys_app_replacement_statement">"Dette er et systemprogram. Ønsker du stadig at erstatte det?"\n\n"Alle tidligere brugerdata gemmes."</string>

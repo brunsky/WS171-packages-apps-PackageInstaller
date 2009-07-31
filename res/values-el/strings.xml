@@ -17,7 +17,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">"Package Installer"</string>
     <string name="install">"Εγκατάσταση"</string>
-    <string name="done">"Ολοκληρώθηκε"</string>
+    <string name="done">"Τέλος"</string>
     <string name="security_settings_desc">"Να επιτρέπεται σε αυτή την εφαρμογή να:"</string>
     <string name="cancel">"Ακύρωση"</string>
     <string name="unknown">"Άγνωστο"</string>

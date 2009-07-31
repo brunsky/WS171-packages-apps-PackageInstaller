@@ -17,7 +17,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">"Programa de instalación del paquete"</string>
     <string name="install">"Instalar"</string>
-    <string name="done">"Finalizado"</string>
+    <string name="done">"Hecho"</string>
     <string name="security_settings_desc">"Permitir que esta aplicación:"</string>
     <string name="cancel">"Cancelar"</string>
     <string name="unknown">"Desconocido"</string>

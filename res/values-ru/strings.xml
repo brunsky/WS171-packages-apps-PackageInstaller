@@ -16,7 +16,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">"Программа установки пакета"</string>
-    <string name="install">"Установить"</string>
+    <string name="install">"Устанавливать"</string>
     <string name="done">"Готово"</string>
     <string name="security_settings_desc">"Разрешить этому приложению:"</string>
     <string name="cancel">"Отмена"</string>

@@ -18,7 +18,7 @@
     <string name="app_name">"打包安装程序"</string>
     <string name="install">"安装"</string>
     <string name="done">"完成"</string>
-    <string name="security_settings_desc">"允许该应用程序："</string>
+    <string name="security_settings_desc">"允许安装该应用程序："</string>
     <string name="cancel">"取消"</string>
     <string name="unknown">"未知"</string>
     <string name="installing">"正在安装..."</string>
@@ -28,7 +28,7 @@
     <string name="install_failed_msg">"无法在此手机上安装<xliff:g id="APP_NAME">%1$s</xliff:g>。"</string>
     <string name="launch">"打开"</string>
     <string name="unknown_apps_dlg_title">"禁止安装"</string>
-    <string name="unknown_apps_dlg_text">"为了安全起见，您的手机设置为禁止安装非 Android 电子市场提供的应用程序。"</string>
+    <string name="unknown_apps_dlg_text">"为了安全起见，您的手机已设置为禁止安装不是由 Android 电子市场提供的应用程序。"</string>
     <string name="ok">"确定"</string>
     <string name="settings">"设置"</string>
     <string name="manage_applications">"管理应用程序"</string>
