@@ -25,10 +25,10 @@
     <string name="install_done">"应用程序已安装"</string>
     <string name="install_confirm_question">"是否要安装该应用程序？"</string>
     <string name="install_failed">"应用程序未安装"</string>
-    <string name="install_failed_msg">"无法在此手机上安装<xliff:g id="APP_NAME">%1$s</xliff:g>。"</string>
+    <string name="install_failed_msg">"无法在此装置上安装<xliff:g id="APP_NAME">%1$s</xliff:g>。"</string>
     <string name="launch">"打开"</string>
     <string name="unknown_apps_dlg_title">"禁止安装"</string>
-    <string name="unknown_apps_dlg_text">"为了安全起见，您的手机已设置为禁止安装不是由 Android 电子市场提供的应用程序。"</string>
+    <string name="unknown_apps_dlg_text">"为了安全起见，您的装置已设置为禁止安装任何应用程序。"</string>
     <string name="ok">"确定"</string>
     <string name="settings">"设置"</string>
     <string name="manage_applications">"管理应用程序"</string>
@@ -36,12 +36,12 @@
     <string name="dlg_app_replacement_statement">"您正在安装的应用程序会替换其他应用程序。"\n\n"会保存所有以前的用户数据。"</string>
     <string name="dlg_sys_app_replacement_statement">"这是一个系统应用程序。您是否仍要替换它？"\n\n"之前的所有用户数据都会保存。"</string>
     <string name="out_of_space_dlg_title">"空间不足"</string>
-    <string name="out_of_space_dlg_text">"无法查看<xliff:g id="APP_NAME">%1$s</xliff:g>。请释放部分手机空间，然后重试。"</string>
+    <string name="out_of_space_dlg_text">"无法查看<xliff:g id="APP_NAME">%1$s</xliff:g>。请释放部分装置空间，然后重试。"</string>
     <string name="dlg_ok">"确定"</string>
     <string name="app_not_found_dlg_title">"找不到应用程序"</string>
     <string name="app_not_found_dlg_text">"在已安装应用程序的列表中找不到该应用程序。"</string>
     <string name="uninstall_application_question">"是否卸载应用程序？"</string>
-    <string name="uninstall_application_text">"将从您的手机中删除该应用程序。"</string>
+    <string name="uninstall_application_text">"将从您的裝置中删除该应用程序。"</string>
     <string name="uninstalling">"正在卸载..."</string>
     <string name="uninstall_done">"卸载完成！"</string>
     <string name="uninstall_failed">"卸载失败"</string>

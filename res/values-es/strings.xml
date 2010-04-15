@@ -25,10 +25,10 @@
     <string name="install_done">"Aplicación instalada"</string>
     <string name="install_confirm_question">"¿Quieres instalar esta aplicación?"</string>
     <string name="install_failed">"La aplicación no está instalada."</string>
-    <string name="install_failed_msg">"No se ha podido instalar <xliff:g id="APP_NAME">%1$s</xliff:g> en este teléfono."</string>
+    <string name="install_failed_msg">"No se ha podido instalar <xliff:g id="APP_NAME">%1$s</xliff:g> en este dispositivo."</string>
     <string name="launch">"Abierta"</string>
     <string name="unknown_apps_dlg_title">"Instalación bloqueada"</string>
-    <string name="unknown_apps_dlg_text">"Por motivos de seguridad, tu teléfono se ha configurado para bloquear la instalación de aplicaciones que no pertenecen a Android Market."</string>
+    <string name="unknown_apps_dlg_text">"Para la seguridad, el dispositivo está configurado para bloquear la instalación de cualquier aplicación."</string>
     <string name="ok">"Aceptar"</string>
     <string name="settings">"Configuración"</string>
     <string name="manage_applications">"Administrar aplicaciones"</string>
@@ -36,12 +36,12 @@
     <string name="dlg_app_replacement_statement">"La aplicación que quieres instalar sustituirá a otra aplicación."\n\n"Se guardarán todos los datos de usuarios anteriores."</string>
     <string name="dlg_sys_app_replacement_statement">"Es una aplicación del sistema. ¿Deseas sustituirla de todos modos?"\n\n"Se guardarán todos los datos de usuario anteriores."</string>
     <string name="out_of_space_dlg_title">"Sin espacio"</string>
-    <string name="out_of_space_dlg_text">"No se ha podido ver el archivo <xliff:g id="APP_NAME">%1$s</xliff:g>. Libera espacio en el teléfono e inténtalo de nuevo."</string>
+    <string name="out_of_space_dlg_text">"No se ha podido ver el archivo <xliff:g id="APP_NAME">%1$s</xliff:g>. Libera espacio en el dispositivo e inténtalo de nuevo."</string>
     <string name="dlg_ok">"Aceptar"</string>
     <string name="app_not_found_dlg_title">"No se ha encontrado la aplicación."</string>
     <string name="app_not_found_dlg_text">"No se ha encontrado la aplicación en la lista de aplicaciones instaladas."</string>
     <string name="uninstall_application_question">"¿Desinstalar aplicación?"</string>
-    <string name="uninstall_application_text">"Esta aplicación se eliminará de tu teléfono."</string>
+    <string name="uninstall_application_text">"Esta aplicación se eliminará de tu dispositivo."</string>
     <string name="uninstalling">"Desinstalando..."</string>
     <string name="uninstall_done">"Desinstalación completada"</string>
     <string name="uninstall_failed">"La desinstalación no se ha realizado correctamente."</string>

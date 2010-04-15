@@ -25,10 +25,10 @@
     <string name="install_done">"Anwendung installiert"</string>
     <string name="install_confirm_question">"Möchten Sie diese Anwendung installieren?"</string>
     <string name="install_failed">"Anwendung nicht installiert"</string>
-    <string name="install_failed_msg">"<xliff:g id="APP_NAME">%1$s</xliff:g> konnte nicht auf diesem Telefon installiert werden."</string>
+    <string name="install_failed_msg">"<xliff:g id="APP_NAME">%1$s</xliff:g> konnte nicht auf diesem gerät installiert werden."</string>
     <string name="launch">"Öffnen"</string>
     <string name="unknown_apps_dlg_title">"Installation gesperrt"</string>
-    <string name="unknown_apps_dlg_text">"Aus Sicherheitsgründen ist Ihr Telefon so eingestellt, dass die Installation von Nicht-Android Market-Anwendungen gesperrt ist."</string>
+    <string name="unknown_apps_dlg_text">"Aus Sicherheitsgründen ist das Gerät mit der Installation von Anwendungen blockieren."</string>
     <string name="ok">"OK"</string>
     <string name="settings">"Einstellungen"</string>
     <string name="manage_applications">"Anwendungen verwalten"</string>
@@ -36,12 +36,12 @@
     <string name="dlg_app_replacement_statement">"Die zu installierende Anwendung ersetzt eine andere Anwendung."\n\n"Alle vorhandenen Nutzerdaten werden gespeichert."</string>
     <string name="dlg_sys_app_replacement_statement">"Dies ist eine Systemanwendung. Möchten Sie sie dennoch ersetzen?"\n\n"Alle vorherigen Nutzerdaten werden gespeichert."</string>
     <string name="out_of_space_dlg_title">"Kein freier Speicher vorhanden"</string>
-    <string name="out_of_space_dlg_text">"<xliff:g id="APP_NAME">%1$s</xliff:g> konnte nicht geprüft werden. Bereinigen Sie den Speicher Ihres Telefons und versuchen Sie es erneut."</string>
+    <string name="out_of_space_dlg_text">"<xliff:g id="APP_NAME">%1$s</xliff:g> konnte nicht geprüft werden. Bereinigen Sie den Speicher Ihres geräts und versuchen Sie es erneut."</string>
     <string name="dlg_ok">"OK"</string>
     <string name="app_not_found_dlg_title">"Anwendung nicht gefunden"</string>
     <string name="app_not_found_dlg_text">"Diese Anwendung wurde in der Liste der installierten Anwendungen nicht gefunden."</string>
     <string name="uninstall_application_question">"Anwendung deinstallieren?"</string>
-    <string name="uninstall_application_text">"Diese Anwendung wird von Ihrem Telefon entfernt."</string>
+    <string name="uninstall_application_text">"Diese Anwendung wird von Ihrem Gerät entfernt."</string>
     <string name="uninstalling">"Deinstallation..."</string>
     <string name="uninstall_done">"Deinstallation abgeschlossen!"</string>
     <string name="uninstall_failed">"Deinstallation nicht erfolgreich"</string>

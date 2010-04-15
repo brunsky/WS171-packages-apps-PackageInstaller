@@ -28,7 +28,7 @@
     <string name="install_failed_msg">"<xliff:g id="APP_NAME">%1$s</xliff:g>はこの端末にインストールできません。"</string>
     <string name="launch">"開く"</string>
     <string name="unknown_apps_dlg_title">"インストールはブロックされました"</string>
-    <string name="unknown_apps_dlg_text">"セキュリティ保護のため、お使いの端末はAndroidマーケット以外から提供されるアプリケーションのインストールをブロックするよう設定されています。"</string>
+    <string name="unknown_apps_dlg_text">"セキュリティのため、デバイスのすべてのアプリケーションのインストールをブロックするように設定されます。"</string>
     <string name="ok">"OK"</string>
     <string name="settings">"設定"</string>
     <string name="manage_applications">"アプリケーションを管理"</string>
